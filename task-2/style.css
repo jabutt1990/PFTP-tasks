@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Varela+Round&family=Yatra+One&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  font-family: "Varela Round", sans-serif;
+}
+a {
+  text-decoration: none;
+}
+.container {
+  background-color: #e1b7bf;
+  position: relative;
+  height: 130vh;
+}
+
+.text-div h1 {
+  color: #c262af;
+  text-align: center;
+  padding-top: 50px;
+}
+.box-1 {
+  background-color: #ffffff;
+  height: 65vh;
+  width: 20%;
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 230px;
+  border-radius: 10px;
+}
+.img-cont img {
+  max-width: 200px;
+  box-sizing: border-box;
+  margin: 35px 0 0 30px;
+}
+.box-1 h2 {
+  color: #757575;
+  text-align: center;
+  padding: 20px 0 20px 0;
+  font-size: 22px;
+  font-weight: 400;
+}
+.box-1 p {
+  text-align: center;
+  padding: 0 25px 20px 25px;
+  color: #757575;
+}
+.anchor a {
+  color: #c262af;
+  margin-left: 70px;
+  font-weight: 500;
+}
+a:hover {
+  color: #59437a;
+  font-weight: 800;
+}
+.box-2 {
+  background-color: #ffffff;
+  height: 65vh;
+  width: 20%;
+  position: absolute;
+  border-radius: 10px;
+  left: 510px;
+  margin-top: 150px;
+}
+.box-2 h2 {
+  color: #757575;
+  text-align: center;
+  padding: 20px 0 20px 0;
+  font-size: 22px;
+  font-weight: 400;
+}
+.box-2 p {
+  text-align: center;
+  padding: 0 25px 20px 25px;
+  color: #757575;
+}
+.box-3 {
+  background-color: #ffffff;
+  height: 65vh;
+  width: 20%;
+  position: absolute;
+  margin-right: 220px;
+  margin-top: 250px;
+  right: 0;
+  border-radius: 10px;
+}
+.box-3 h2 {
+  color: #757575;
+  text-align: center;
+  padding: 20px 0 20px 0;
+  font-size: 22px;
+  font-weight: 400;
+}
+.box-3 p {
+  text-align: center;
+  padding: 0 25px 20px 25px;
+  color: #757575;
+}
+.div-1 {
+  background-color: #59437a;
+  height: 20%;
+  margin-top: 180px;
+}

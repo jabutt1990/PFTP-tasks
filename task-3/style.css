@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Varela+Round&family=Yatra+One&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+.container {
+  background-color: #2c4776;
+  height: 135vh;
+  position: relative;
+}
+.text {
+  position: absolute;
+  max-width: 48%;
+  left: 50px;
+  top: 50px;
+}
+.text h1 {
+  color: #becfed;
+  font-size: 3rem;
+}
+.div-1 {
+  background-color: #506b9b;
+  height: 410px;
+  width: 380px;
+  position: absolute;
+  top: 300px;
+}
+.div-2 {
+  width: 680px;
+  height: 425px;
+  position: absolute;
+  top: 400px;
+  left: 100px;
+}
+.div-2 img {
+  max-width: 680px;
+}
+.circle {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  border: solid #fff;
+  border-width: 20px;
+  position: absolute;
+  top: 760px;
+  left: 130px;
+}
+.right-div {
+  width: 30%;
+  height: 530px;
+  position: relative;
+  left: 700px;
+  top: 240px;
+}
+.r1c1 {
+  background-color: #fff;
+  width: 180px;
+  height: 255px;
+  position: absolute;
+}
+.r1c2 {
+  background-color: #fff;
+  width: 180px;
+  height: 255px;
+  position: absolute;
+  right: 0;
+}
+.r2c1 {
+  background-color: #fff;
+  width: 180px;
+  height: 255px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+.r2c2 {
+  background-color: #fff;
+  width: 180px;
+  height: 255px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+.inside h4 {
+  text-align: center;
+  padding: 15px 0 25px 0;
+  font-stretch: expanded;
+  color: #314b79;
+}
+.inside p {
+  text-align: center;
+  padding: 0 15px;
+  color: #505050;
+}
+.bg-circle {
+  position: relative;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: #c5cfdd;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.bg-circle img {
+  max-width: 40px;
+  left: 15px;
+  top: 15px;
+  position: absolute;
+}
